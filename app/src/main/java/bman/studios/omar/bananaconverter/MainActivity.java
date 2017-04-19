@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
     ImageView image;
 
-    /** Variable for the popup message that shows conversion */
+    /** Variable for the popup message that shos conversion */
     Toast mToast;
 
     @Override
