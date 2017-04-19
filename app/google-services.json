@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "652236849116",
+    "firebase_url": "https://banana-currency-converter.firebaseio.com",
+    "project_id": "banana-currency-converter",
+    "storage_bucket": "banana-currency-converter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652236849116:android:d8e8687107a6c42f",
+        "android_client_info": {
+          "package_name": "bman.studios.omar.bananaconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652236849116-3geg0h9c84gu7ifb3pqqs1eke3ti88s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqFOBlTqVOmDohNqahE4UnRNuZ7CTuvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
