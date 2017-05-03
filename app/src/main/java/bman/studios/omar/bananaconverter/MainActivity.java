@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
     public void pauseAudio(View view) {
 
         mplayer.pause();
-
     }
 
     public void showAToast(String str) {
